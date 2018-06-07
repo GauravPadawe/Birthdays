@@ -25,7 +25,7 @@ def birthday(x):                                  # Defining Procedure
 		else:
 			print ("Sorry we don't have the person in our dictionary")    # Else print out that it is not in out dictionary
 	else:                                                                 
-		print ("Please Re-Check - 'Start' to begin")       # This else statement is of beginning "If" statement where we wanted user to type "Start" to begin dictionary
+		print ("Please Re-Check - 'Start' to begin")       # This else statement closes the "If" statement from the beginning where we wanted user to type "Start" to begin dictionary
 		
 print (birthday(a))
 
